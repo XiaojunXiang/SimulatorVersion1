@@ -1,2 +1,0 @@
-SimulatorVersion1
-=================
